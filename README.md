@@ -1,16 +1,25 @@
-# todo_list_manager
+<h1 align="left">📝 Todo Manager – Simple & Smart Task Organizer</h1>
 
-A new Flutter project.
+Todo Manager is a clean, lightweight, and powerful task management app designed to help you stay organized and boost productivity. Whether you're tracking daily tasks or managing long-term goals, Todo Manager gives you the tools to stay on top of everything.
 
-## Getting Started
+🚀 Key Features:
+✅ Splash Screen: Smooth and professional startup experience.
 
-This project is a starting point for a Flutter application.
+📝 Add, Edit & Delete Tasks: Manage your to-do list with ease.
 
-A few resources to get you started if this is your first Flutter project:
+💾 Offline Storage with Sqflite: All your data is stored locally — fast and private.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎨 Theme Changer: Switch between light and dark themes anytime.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚙️ State Management with Provider: Fast performance and reliable state handling.
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
