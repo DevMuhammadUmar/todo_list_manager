@@ -3,6 +3,7 @@
 Todo Manager is a clean, lightweight, and powerful task management app designed to help you stay organized and boost productivity. Whether you're tracking daily tasks or managing long-term goals, Todo Manager gives you the tools to stay on top of everything.
 
 🚀 Key Features:
+
 ✅ Splash Screen: Smooth and professional startup experience.
 
 📝 Add, Edit & Delete Tasks: Manage your to-do list with ease.
